@@ -1,2 +1,4 @@
 .DS_Store
 /assets/labeled_data/labeled_transactions.csv
+/assets/kaggle_data
+*.cache*
